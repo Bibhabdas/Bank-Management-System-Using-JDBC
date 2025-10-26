@@ -34,7 +34,7 @@ This system is designed using a multi-layered architecture (DTO/DAO/Service/Main
 
 * **Language:** Java
 * **Database Connectivity:** JDBC (Java Database Connectivity)
-* **Database:** MySQL (Assumed, based on `JdbcConnections.forMySqlConnection()`)
+* **Database:** MySQL 
 
 ## 🧱 Project Structure (Layers)
 
